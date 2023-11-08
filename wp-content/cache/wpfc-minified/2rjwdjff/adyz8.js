@@ -1,4 +1,4 @@
-// source --> https://www.bicconstruction.com.au/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+// source --> https://kiriinresources.our-headquarter.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
 /*! jQuery v3.6.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */
 !(function (e, t) {
   "use strict";
@@ -5574,7 +5574,7 @@
   );
 });
 jQuery.noConflict();
-// source --> https://www.bicconstruction.com.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+// source --> https://kiriinresources.our-headquarter.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
 /*! jQuery Migrate v3.3.2 | (c) OpenJS Foundation and other contributors | jquery.org/license */
 "undefined" == typeof jQuery.migrateMute && (jQuery.migrateMute = !0),
   (function (t) {

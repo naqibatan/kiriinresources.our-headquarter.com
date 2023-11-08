@@ -1443,12 +1443,12 @@ a.page-numbers:hover {
 }
 .tender__accordian button[aria-expanded="true"],
 .tender__accordian button[aria-expanded="false"] {
-  background-image: url(//www.bicconstruction.com.au/wp-content/themes/BIC-Construction/images/icon-minus.png);
+  background-image: url(//kiriinresources.our-headquarter.com/wp-content/themes/BIC-Construction/images/icon-minus.png);
   background-repeat: no-repeat;
   background-position: 100% 50%;
 }
 .tender__accordian button[aria-expanded="false"] {
-  background-image: url(//www.bicconstruction.com.au/wp-content/themes/BIC-Construction/images/icon-plus.png);
+  background-image: url(//kiriinresources.our-headquarter.com/wp-content/themes/BIC-Construction/images/icon-plus.png);
 }
 span.tender__accordian__num {
   margin-right: 10px;

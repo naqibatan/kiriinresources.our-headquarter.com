@@ -1,4 +1,4 @@
-// source --> https://www.bicconstruction.com.au/wp-content/themes/BIC-Construction/js/custom-modal.js?ver=8f39f7bef0ed4edde56b956fbcadb9c8
+// source --> https://kiriinresources.our-headquarter.com/wp-content/themes/BIC-Construction/js/custom-modal.js?ver=8f39f7bef0ed4edde56b956fbcadb9c8
 var admin_url = bicAjax.ajaxurl;
 var nonce = bicAjax.nonce;
 jQuery(function ($) {

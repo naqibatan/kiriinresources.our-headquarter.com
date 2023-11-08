@@ -1,4 +1,4 @@
-// source --> https://www.bicconstruction.com.au/wp-content/themes/BIC-Construction/js/projects-load-more.js?ver=8f39f7bef0ed4edde56b956fbcadb9c8
+// source --> https://kiriinresources.our-headquarter.com/wp-content/themes/BIC-Construction/js/projects-load-more.js?ver=8f39f7bef0ed4edde56b956fbcadb9c8
 jQuery(function ($) {
   // use jQuery code inside this to avoid "$ is not defined" error
   $(".bic_load_more").click(function () {

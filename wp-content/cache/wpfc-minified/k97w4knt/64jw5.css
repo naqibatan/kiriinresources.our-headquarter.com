@@ -489,7 +489,7 @@
 }
 .gform-theme--foundation.ui-datepicker .ui-datepicker-next:before,
 .gform-theme--foundation.ui-datepicker .ui-datepicker-prev:before {
-  background-image: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/images/theme/down-arrow.svg);
+  background-image: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/images/theme/down-arrow.svg);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: 24px 24px;
@@ -545,7 +545,7 @@
 .gform-theme--foundation.ui-datepicker select.ui-datepicker-year {
   -webkit-padding-end: 24px;
   background-color: transparent;
-  background-image: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/images/theme/down-arrow.svg);
+  background-image: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/images/theme/down-arrow.svg);
   background-position: 100% 50%;
   background-repeat: no-repeat;
   background-size: 24px;
@@ -672,7 +672,7 @@
   white-space: nowrap;
 }
 .gform-theme--foundation .chosen-container-single .chosen-single abbr {
-  background: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/images/theme/chosen/chosen-sprite.png) -42px
+  background: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/images/theme/chosen/chosen-sprite.png) -42px
     1px no-repeat;
   block-size: 12px;
   display: block;
@@ -694,7 +694,7 @@
   position: absolute;
 }
 .gform-theme--foundation .chosen-container-single .chosen-single div b {
-  background: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/images/theme/chosen/chosen-sprite.png)
+  background: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/images/theme/chosen/chosen-sprite.png)
     no-repeat 0 2px;
   block-size: 100%;
   display: block;
@@ -729,7 +729,7 @@
   .chosen-container-single
   .chosen-search
   input[type="text"] {
-  background: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/images/theme/chosen/chosen-sprite.png)
+  background: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/images/theme/chosen/chosen-sprite.png)
     no-repeat 100% -20px;
   block-size: auto;
   border: 1px solid #aaa;
@@ -904,7 +904,7 @@
   .chosen-choices
   li.search-choice
   .search-choice-close {
-  background: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/images/theme/chosen/chosen-sprite.png) -42px
+  background: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/images/theme/chosen/chosen-sprite.png) -42px
     1px no-repeat;
   block-size: 12px;
   display: block;
@@ -1052,7 +1052,7 @@
   .gform-theme--foundation .chosen-container-single .chosen-single abbr,
   .gform-theme--foundation .chosen-container-single .chosen-single div b,
   .gform-theme--foundation .chosen-rtl .chosen-search input[type="text"] {
-    background-image: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/images/theme/chosen/chosen-sprite@2x.png) !important;
+    background-image: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/images/theme/chosen/chosen-sprite@2x.png) !important;
     background-repeat: no-repeat !important;
     background-size: 52px 37px !important;
   }
@@ -1093,7 +1093,7 @@
 }
 .gform-theme--foundation .gform_card_icon_container .gform_card_icon {
   -webkit-margin-end: 0.3rem;
-  background-image: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/images/gf-creditcards.svg);
+  background-image: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/images/gf-creditcards.svg);
   background-repeat: no-repeat;
   block-size: 32px;
   inline-size: 40px;
@@ -1138,7 +1138,7 @@
 .gform-theme--foundation
   .gform_card_icon_container
   .gform_card_icon.gform_card_icon_selected:after {
-  background: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/images/gf-creditcards-check.svg)
+  background: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/images/gf-creditcards-check.svg)
     50% no-repeat;
   block-size: 10px;
   content: "";
@@ -1173,7 +1173,7 @@
 .gform-theme--foundation .ginput_card_security_code_icon {
   -webkit-margin-start: 0.3em;
   align-self: center;
-  background-image: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/images/gf-creditcards.svg);
+  background-image: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/images/gf-creditcards.svg);
   background-position: -382px;
   background-repeat: no-repeat;
   block-size: 32px;
@@ -3001,13 +3001,13 @@ html[dir="rtl"] .gform-theme--framework {
   font-family: gform-icons-orbital;
   font-style: normal;
   font-weight: 400;
-  src: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/fonts/gform-icons-orbital.woff2?fgky8e)
+  src: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/fonts/gform-icons-orbital.woff2?fgky8e)
       format("woff2"),
-    url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/fonts/gform-icons-orbital.ttf?fgky8e)
+    url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/fonts/gform-icons-orbital.ttf?fgky8e)
       format("truetype"),
-    url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/fonts/gform-icons-orbital.woff?fgky8e)
+    url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/fonts/gform-icons-orbital.woff?fgky8e)
       format("woff"),
-    url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/fonts/gform-icons-orbital.svg?fgky8e#gform-icons-orbital)
+    url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/fonts/gform-icons-orbital.svg?fgky8e#gform-icons-orbital)
       format("svg");
 }
 .gform-orbital-icon {
@@ -7364,13 +7364,13 @@ input.gform-text-input-reset {
 }
 @font-face {
   font-family: gform-icons-theme;
-  src: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/fonts/gform-icons-theme.woff2?a2cayk)
+  src: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/fonts/gform-icons-theme.woff2?a2cayk)
       format("woff2"),
-    url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/fonts/gform-icons-theme.ttf?a2cayk)
+    url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/fonts/gform-icons-theme.ttf?a2cayk)
       format("truetype"),
-    url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/fonts/gform-icons-theme.woff?a2cayk)
+    url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/fonts/gform-icons-theme.woff?a2cayk)
       format("woff"),
-    url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/fonts/gform-icons-theme.svg?a2cayk#gform-icons-theme)
+    url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/fonts/gform-icons-theme.svg?a2cayk#gform-icons-theme)
       format("svg");
   font-weight: 400;
   font-style: normal;
@@ -7768,7 +7768,7 @@ body .gform_wrapper.gravity-theme .gform_validation_container {
   margin-right: 36px;
 }
 .gform_wrapper.gravity-theme .chosen-container-single .chosen-single abbr {
-  background: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/legacy/css/chosen-sprite.png) -42px
+  background: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/legacy/css/chosen-sprite.png) -42px
     1px no-repeat;
   display: block;
   font-size: 1px;
@@ -7799,7 +7799,7 @@ body .gform_wrapper.gravity-theme .gform_validation_container {
   width: 18px;
 }
 .gform_wrapper.gravity-theme .chosen-container-single .chosen-single div b {
-  background: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/legacy/css/chosen-sprite.png)
+  background: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/legacy/css/chosen-sprite.png)
     no-repeat 0 10px;
   display: block;
   height: 100%;
@@ -7816,7 +7816,7 @@ body .gform_wrapper.gravity-theme .gform_validation_container {
   .chosen-container-single
   .chosen-search
   input[type="text"] {
-  background: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/legacy/css/chosen-sprite.png)
+  background: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/legacy/css/chosen-sprite.png)
     no-repeat 100% -20px;
   border: 1px solid #aaa;
   border-radius: 0;
@@ -7976,7 +7976,7 @@ body .gform_wrapper.gravity-theme .gform_validation_container {
   .chosen-choices
   li.search-choice
   .search-choice-close {
-  background: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/legacy/css/chosen-sprite.png) -42px
+  background: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/legacy/css/chosen-sprite.png) -42px
     1px no-repeat;
   display: block;
   font-size: 1px;
@@ -8147,7 +8147,7 @@ body .gform_wrapper.gravity-theme .gform_validation_container {
   border-right: none;
 }
 .gform_wrapper.gravity-theme .chosen-rtl .chosen-search input[type="text"] {
-  background: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/legacy/css/chosen-sprite.png)
+  background: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/legacy/css/chosen-sprite.png)
     no-repeat -30px -20px;
   direction: rtl;
   padding: 4px 5px 4px 20px;
@@ -8186,7 +8186,7 @@ body .gform_wrapper.gravity-theme .gform_validation_container {
   .gform_wrapper.gravity-theme .chosen-container-single .chosen-single abbr,
   .gform_wrapper.gravity-theme .chosen-container-single .chosen-single div b,
   .gform_wrapper.gravity-theme .chosen-rtl .chosen-search input[type="text"] {
-    background-image: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/legacy/css/chosen-sprite@2x.png) !important;
+    background-image: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/legacy/css/chosen-sprite@2x.png) !important;
     background-repeat: no-repeat !important;
     background-size: 52px 37px !important;
   }
@@ -9129,7 +9129,7 @@ html[dir="rtl"]
   margin: 8px 0 6.4px 0;
 }
 .gform_wrapper.gravity-theme .gform_card_icon_container div.gform_card_icon {
-  background-image: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/images/gf-creditcards.svg);
+  background-image: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/images/gf-creditcards.svg);
   background-repeat: no-repeat;
   height: 32px;
   margin-right: 4.8px;
@@ -9174,7 +9174,7 @@ html[dir="rtl"]
 .gform_wrapper.gravity-theme
   .gform_card_icon_container
   div.gform_card_icon.gform_card_icon_selected::after {
-  background: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/images/gf-creditcards-check.svg)
+  background: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/images/gf-creditcards-check.svg)
     center center no-repeat;
   bottom: 4px;
   content: "";
@@ -9201,7 +9201,7 @@ html[dir="rtl"]
 .gform_wrapper.gravity-theme
   .ginput_container_creditcard
   .ginput_card_security_code_icon {
-  background-image: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/images/gf-creditcards.svg);
+  background-image: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/images/gf-creditcards.svg);
   background-position: -382px center;
   background-repeat: no-repeat;
   display: block;
@@ -9255,7 +9255,7 @@ html[dir="rtl"]
 }
 .gform_wrapper.gravity-theme .gfield_list_icons button {
   background: transparent
-    url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/images/list-add.svg);
+    url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/images/list-add.svg);
   border: none;
   font-size: 0;
   height: 16px;
@@ -9270,7 +9270,7 @@ html[dir="rtl"]
   outline: 0;
 }
 .gform_wrapper.gravity-theme .gfield_list_icons button.delete_list_item {
-  background-image: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/images/list-remove.svg);
+  background-image: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/images/list-remove.svg);
   margin-left: 5px;
 }
 @media (max-width: 640px) {
@@ -10114,7 +10114,7 @@ html[dir="rtl"]
   select {
   -webkit-appearance: none;
   background-color: transparent;
-  background-image: url(//www.bicconstruction.com.au/wp-content/plugins/gravityforms/images/theme/down-arrow.svg);
+  background-image: url(//kiriinresources.our-headquarter.com/wp-content/plugins/gravityforms/images/theme/down-arrow.svg);
   background-position: 100% 50%;
   background-repeat: no-repeat;
   background-size: 24px 24px;
